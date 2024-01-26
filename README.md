@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+secrets-management
+# Secrets Management
 
-Based on "ABC" at https://www.abc.com/
+Based on "Doppler - The New Era of Secrets Management" at https://github.com/vanHeemstraSystems/doppler
 
 ## 100 - Introduction
 
